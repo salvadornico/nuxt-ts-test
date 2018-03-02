@@ -60,5 +60,6 @@ module.exports = {
     "@nuxtjs/axios",
     "~/modules/typescript.js"
   ],
-  axios: {}
+  axios: {},
+  mode: "spa"
 }
