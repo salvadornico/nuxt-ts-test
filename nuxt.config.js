@@ -61,5 +61,8 @@ module.exports = {
     "~/modules/typescript.js"
   ],
   axios: {},
-  mode: "spa"
+  mode: "spa",
+  generate: {
+	  subFolders: false
+  }
 }
